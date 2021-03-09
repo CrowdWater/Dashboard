@@ -8,3 +8,5 @@ Last Update: 09.03.2021
 
 The code was initially written by Simon Etter. After it was modified by Marc Vis and Mirjam Scheller.
 
+If you have question, do not hesitate to write us (info@crowdwater.ch)
+
