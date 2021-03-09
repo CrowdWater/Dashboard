@@ -1,3 +1,6 @@
+# Initially written by Simon Etter. Modified by Marc Vis and Mirjam Scheller
+# 
+
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
